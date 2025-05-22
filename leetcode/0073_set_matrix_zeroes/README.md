@@ -12,7 +12,7 @@ You must do it **in place**.
 
 ### Examples
 
-**Example 1:**
+**Example 1:**  
 ![Matrix Example 1](examples/mat1.jpg)
 
 ```
@@ -20,7 +20,7 @@ Input:  matrix = [[1,1,1],[1,0,1],[1,1,1]]
 Output: [[1,0,1],[0,0,0],[1,0,1]]
 ```
 
-**Example 2:**
+**Example 2:**  
 ![Matrix Example 1](examples/mat2.jpg)
 
 ```
