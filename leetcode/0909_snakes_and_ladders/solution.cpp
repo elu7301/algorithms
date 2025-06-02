@@ -12,7 +12,7 @@ public:
             int curr = q.front();
             q.pop();
 
-            for (int move = 1; move <= 6; ++move) {
+            for (int move = 1; move <= 6; move++) {
 
                 int next = curr + move;
 
